@@ -2,7 +2,7 @@ CS223P - Python Programming
 
 Author Name: Kathy Saad<br>
 Project Title: Assignment 6 - Generators and Iterators - Permutations<br>
-Project Status: Unknown
+Project Status: Unknown<br>
 External Resources:<br>
 - Class notes<br>
 - https://www.python.org/<br>
