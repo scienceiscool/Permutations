@@ -9,9 +9,7 @@ __External Resources:__<br>
 
 *******************************************************************************************************************************************
 
-__Instructions:__
-
-Write a class named Permutation that will generate on demand all the permutations of a given list. Write a short main function that demonstrates its use on the following lists:<br>
+__Instructions:__ Write a class named Permutation that will generate on demand all the permutations of a given list. Write a short main function that demonstrates its use on the following lists:<br>
 [1, 2, 3, 4, 5], ['a', 'b', 'c', 'd', 'e', 'f', 'g'], ['b', 'c', 'a'].<br>
 (Do not use anything from the itertools module)
 
