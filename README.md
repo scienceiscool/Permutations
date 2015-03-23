@@ -1,15 +1,15 @@
-CS223P - Python Programming
+#CS223P - Python Programming
 
-Author Name: Kathy Saad<br>
-Project Title: Assignment 6 - Generators and Iterators - Permutations<br>
-Project Status: Unknown<br>
-External Resources:<br>
+__Author Name:__ Kathy Saad<br>
+__Project Title:__ Assignment 6 - Generators and Iterators - Permutations<br>
+__Project Status:__ Unknown<br>
+__External Resources:__<br>
 - Class notes<br>
 - https://www.python.org/<br>
 
 *******************************************************************************************************************************************
 
-Instructions:
+__Instructions:__
 
 Write a class named Permutation that will generate on demand all the permutations of a given list. Write a short main function that demonstrates its use on the following lists:<br>
 [1, 2, 3, 4, 5], ['a', 'b', 'c', 'd', 'e', 'f', 'g'], ['b', 'c', 'a'].<br>
@@ -17,9 +17,9 @@ Write a class named Permutation that will generate on demand all the permutation
 
 *******************************************************************************************************************************************
 
-Sample Run:
+__Sample Run:__
 
-	python3.4 permutation.py 
+	$python3.4 permutation.py 
 	Permutations of list [1, 2, 3, 4, 5]:
 	[1, 2, 3, 4, 5]
 	[1, 5, 4, 3, 2]
